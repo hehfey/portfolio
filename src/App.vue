@@ -8,7 +8,7 @@
     </div>
     <section class="section">
       <h1 class="title">Hi! I'm Jeff.</h1>
-      <h6 class="subtitle is-6">I am a full stack developer.... etc.</h6>
+      <h6 class="subtitle is-6">I am a full stack developer.... etccc.</h6>
     </section>
   </div>
 </template>
@@ -23,5 +23,5 @@ export default {
 </script>
 
 <style>
-  @import "~bulma/css/bulma.css";
+  @import "css/custom.css"; 
 </style>

@@ -19,7 +19,7 @@
             <div class="navbar-end">
                 <div class="navbar-item">
                     <div class="buttons">
-                        <a class="button is-light">
+                        <a class="button is-light" href="https://github.com/hehfey" target="_blank">
                             <font-awesome-icon icon="fa-brands fa-github" />
                         </a>
                     </div>
