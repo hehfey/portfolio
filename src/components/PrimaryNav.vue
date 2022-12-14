@@ -12,7 +12,7 @@
                     Home
                 </a>
                 <a class="navbar-item">
-                    Projects
+                    My Projects
                 </a>
             </div>
 
