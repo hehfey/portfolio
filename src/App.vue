@@ -1,26 +1,27 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <div id="app">
+    <PrimaryNav/>
+    <div class="container">
+      <div class="notification is-primary">
+        You have stumbled upon a WIP portfolio.
+      </div>
+    </div>
+    <section class="section">
+      <h1 class="title">Hi! I'm Jeff.</h1>
+      <h6 class="subtitle is-6">I am a full stack developer.... etc.</h6>
+    </section>
+  </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import PrimaryNav from './components/PrimaryNav.vue'
 
 export default {
   name: 'App',
-  components: {
-    HelloWorld
-  }
+  components: {PrimaryNav}
 }
 </script>
 
 <style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
+  @import "~bulma/css/bulma.css";
 </style>
