@@ -6,21 +6,15 @@
             </a>
         </div>
 
-        <div id="navbarBasicExample" class="navbar-menu">
-            <div class="navbar-start">
-                <a class="navbar-item">
-                    Home
-                </a>
-                <a class="navbar-item">
-                    My Projects
-                </a>
-            </div>
-
+        <div class="navbar-menu is-active">
             <div class="navbar-end">
                 <div class="navbar-item">
                     <div class="buttons">
-                        <a class="button is-light">
+                        <a class="button is-light" href="https://github.com/hehfey" target="_blank">
                             <font-awesome-icon icon="fa-brands fa-github" />
+                        </a>
+                        <a class="button is-light" href="https://linkedin.com/in/jeffrey-johnston-98b68417a" target="_blank">
+                            <font-awesome-icon icon="fa-brands fa-linkedin-in" />
                         </a>
                     </div>
                 </div>
