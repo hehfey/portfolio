@@ -14,7 +14,7 @@
                     <div class="timeline-item">
                         <div class="timeline-marker"></div>
                         <div class="timeline-content">
-                            <p class="heading">VP of Development - July 2022 throughPresent</p>
+                            <p class="heading">VP of Development - July 2022 through Present</p>
                             <p>I stepped out of the daily routine of development to take a more hands on approach with team management. I assisted with implementing the Agile Methodology to better plan, design and execute small to large projects. I am responsible for meeting with all of the development teams to make sure they always have what they need to perform at their best.</p>
                         </div>
                     </div>

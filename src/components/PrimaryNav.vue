@@ -1,14 +1,10 @@
 <template>
-    <nav class="navbar" role="navigation" aria-label="main navigation">
+    <nav class="navbar is-light" role="navigation" aria-label="main navigation">
         <div class="navbar-brand">
             <a class="navbar-item" href="#">
                 <img src="../assets/PrimaryLogo.png" width="112" height="28">
             </a>
-        </div>
-
-        <div class="navbar-menu is-active">
-            <div class="navbar-end">
-                <div class="navbar-item">
+            <div class="navbar-item">
                     <div class="buttons">
                         <a class="button is-light" href="https://github.com/hehfey" target="_blank">
                             <font-awesome-icon icon="fa-brands fa-github" />
@@ -18,7 +14,6 @@
                         </a>
                     </div>
                 </div>
-            </div>
         </div>
     </nav>
 </template>
